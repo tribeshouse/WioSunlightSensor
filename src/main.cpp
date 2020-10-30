@@ -5,7 +5,7 @@ TFT_eSPI tft;
 SI114X SI1145 = SI114X();
 
 #define max_size 50 //maximum size of data
-#define num_charts 5 //number of charts
+#define num_charts 3 //number of charts
 #define label_width 16
 
 doubles data[num_charts]; //Initilising a doubles type to store data
